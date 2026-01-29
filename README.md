@@ -11,7 +11,7 @@ I build innovative AI tools and modern web applications. Specializing in transfo
 - ⚡ One-command rendering with Remotion
 - 🤖 AI-powered automation
 
-**[Portfolio Website](https://github.com/rafi-ud-deen/rafi-portfolio)** - Personal portfolio showcasing my work
+**[Portfolio Website](https://rafi-ud-deen.github.io/rafi-portfolio)** - Personal portfolio showcasing my work
 - 🎨 Modern React-based portfolio with interactive design
 - 📱 Responsive layout optimized for all devices
 - 🔗 Integrated contact form and social media links
