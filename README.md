@@ -17,6 +17,8 @@ I build innovative AI tools and modern web applications. Specializing in transfo
 - 🔗 Integrated contact form and social media links
 - ⚡ Fast loading with optimized performance
 
+[![Live Page](https://img.shields.io/badge/Live%20Page-Visit%20Portfolio-blue?style=for-the-badge&logo=github-pages)](https://rafi-ud-deen.github.io/rafi-portfolio)
+
 **[Madina Biryani](https://github.com/rafi-ud-deen/madina-biryani)** - Modern restaurant website
 - 🍛 Authentic Hyderabadi Dum Biryani restaurant
 - 📱 Responsive design with Google Maps integration
