@@ -89,11 +89,11 @@
 
 <div align="center">
 
-![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafi-ud-deen&show_icons=true&theme=tokyonight&hide_border=true)
+![Rafi's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafi-ud-deen&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafi-ud-deen&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=rafi-ud-deen&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi-ud-deen&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafi-ud-deen&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
