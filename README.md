@@ -1,48 +1,158 @@
+<div align="center">
+
 # Hi there, I'm Rafi Ud Deen 👋
 
-## 🤖 AI Engineer & Full-Stack Developer
+### 🤖 AI Engineer & Full-Stack Developer
 
-I build innovative AI tools and modern web applications. Specializing in transforming complex ideas into user-friendly digital solutions.
+[![Claude](https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
-### 🔥 Featured Projects
+*Building innovative AI tools and modern web applications.*  
+*Transforming complex ideas into user-friendly digital solutions.*
 
-**[AI Video Generator](https://github.com/rafi-ud-deen/video-generator)** - Turn Claude AI prompts into professional videos
-- 🎬 6+ video templates (YouTube, logos, data viz)
-- ⚡ One-command rendering with Remotion
-- 🤖 AI-powered automation
+---
 
-**[Portfolio Website](https://rafi-ud-deen.github.io/rafi-portfolio)** - Personal portfolio showcasing my work
-- 🎨 Modern React-based portfolio with interactive design
-- 📱 Responsive layout optimized for all devices
-- 🔗 Integrated contact form and social media links
-- ⚡ Fast loading with optimized performance
+![Profile Views](https://komarev.com/ghpvc/?username=rafi-ud-deen&color=blueviolet&style=flat-square&label=Profile+Views)
 
-[![Live Page](https://img.shields.io/badge/Live%20Page-Visit%20Portfolio-blue?style=for-the-badge&logo=github-pages)](https://rafi-ud-deen.github.io/rafi-portfolio)
+</div>
 
-**[Madina Biryani](https://github.com/rafi-ud-deen/madina-biryani)** - Modern restaurant website
-- 🍛 Authentic Hyderabadi Dum Biryani restaurant
-- 📱 Responsive design with Google Maps integration
+---
+
+## 🔥 Featured Projects
+
+### 🎬 [AI Video Generator](https://github.com/rafi-ud-deen/ai-video-generator)
+> Turn Claude AI prompts into professional videos
+
+| Feature | Description |
+|---------|-------------|
+| 🎥 6+ Templates | YouTube intros, logos, data visualizations |
+| ⚡ One-Command | Instant rendering with Remotion |
+| 🤖 AI-Powered | Fully automated content generation |
+
+---
+
+### 🌊 [Fluid Dynamics Simulation](https://github.com/rafi-ud-deen/fluid-dynamics)
+> Real-time 2D fluid physics engine
+
+| Feature | Description |
+|---------|-------------|
+| 🔬 Navier-Stokes | Advanced equation solver |
+| 🖱️ Interactive | Real-time density & velocity controls |
+| 🎨 Visualization | Beautiful CFD rendering |
+
+🎯 *Perfect for learning physics simulation & numerical methods*
+
+[![Demo](https://img.shields.io/badge/▶_Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/rafi-ud-deen/fluid-dynamics)
+
+---
+
+### 🎨 [Portfolio Website](https://rafi-ud-deen.github.io/portfolio)
+> Modern React-based personal portfolio
+
+- 📱 Responsive design for all devices
+- ⚡ Optimized performance
+- 🔗 Integrated contact & social links
+
+[![Live](https://img.shields.io/badge/🌐_Visit_Site-4285F4?style=for-the-badge)](https://rafi-ud-deen.github.io/portfolio)
+
+---
+
+### 🍛 [Madina Biryani](https://github.com/rafi-ud-deen/madina-biryani)
+> Authentic Hyderabadi restaurant website
+
+- 🗺️ Google Maps integration
 - 🚀 Next.js 16 + TypeScript + Tailwind CSS
+- 📱 Mobile-first responsive design
 
-### 💻 Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+[![Live](https://img.shields.io/badge/🌐_Visit_Site-4285F4?style=for-the-badge)](https://rafi-ud-deen.github.io/madina-biryani)
 
-### 📊 GitHub Stats
-![Rafi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafi-ud-deen&show_icons=true&theme=dark)
+---
 
-### 🌟 What I'm Working On
+## 💻 Tech Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Rafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafi-ud-deen&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafi-ud-deen&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafi-ud-deen&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake Animation](https://raw.githubusercontent.com/rafi-ud-deen/rafi-ud-deen/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Duration |
+|------|--------------|----------|
+| 🤖 AI Engineer | Freelance | 2024 - Present |
+| 💻 Full-Stack Developer | Personal Projects | 2024 - Present |
+
+---
+
+## 🌟 Currently Building
+
 - 🎥 Advanced AI video templates
-- 🤖 Agentic AI applications
+- 🤖 Agentic AI applications  
 - 🍽️ Restaurant technology solutions
 - 📱 Mobile-first web experiences
 
-### 📫 Connect With Me
-[![Instagram](https://img.shields.io/badge/-@rafi_ud_deen-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rafi_ud_deen)
-[![Email](https://img.shields.io/badge/-uddenrafi@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:uddenrafi@gmail.com)
+---
+
+## 💡 Let's Collaborate!
+
+<div align="center">
+
+| Open To | |
+|---------|--|
+| 🤝 Freelance | AI/Web Development |
+| 🚀 Open Source | Collaborations |
+| 💼 Full-Time | AI/ML Opportunities |
+
+</div>
 
 ---
-⭐ **Star my repositories if you find them useful!**
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-uddenrafi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uddenrafi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafi-ud-deen)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rafi_ud_deen)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Star my repositories if you find them useful!
+
+*Let's build something amazing together!* 🚀
+
+</div>
