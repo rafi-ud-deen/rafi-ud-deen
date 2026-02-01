@@ -101,7 +101,7 @@
 
 ## 🐍 Contribution Graph
 
-![Snake Animation](https://raw.githubusercontent.com/rafi-ud-deen/rafi-ud-deen/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/rafi-ud-deen/rafi-ud-deen/output/github-snake-dark.svg)
 
 ---
 
