@@ -45,7 +45,21 @@
 🎯 *Perfect for learning physics simulation & numerical methods*
 
 [![Demo](https://img.shields.io/badge/▶_Live_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/rafi-ud-deen/fluid-dynamics)
+---
 
+### 🎮 [Tetris](https://github.com/rafi-ud-deen/tetris)
+> Modern Tetris clone built with React 19 & TypeScript
+
+| Feature | Description |
+|---------|-------------|
+| 🎯 Classic Mechanics | Full SRS rotation system & wall kicks |
+| 👻 Ghost Piece | Preview piece placement before drop |
+| 📦 Hold System | Strategic piece storage (C key) |
+| 🔊 Audio Engine | Web Audio API sound effects |
+| 📱 Responsive | Touch controls & mobile-optimized |
+| ⚡ 60fps | High-performance canvas rendering |
+
+[![Play Now](https://img.shields.io/badge/▶_Play_Now-00C853?style=for-the-badge&logo=github&logoColor=white)](https://rafi-ud-deen.github.io/tetris/)
 ---
 
 ### 🎨 [Portfolio Website](https://rafi-ud-deen.github.io/portfolio)
@@ -80,6 +94,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Canvas](https://img.shields.io/badge/Canvas_API-000000?style=for-the-badge&logo=html5&logoColor=white)
 
 </div>
 
@@ -120,6 +135,7 @@
 - 🤖 Agentic AI applications  
 - 🍽️ Restaurant technology solutions
 - 📱 Mobile-first web experiences
+- 🎮 Browser-based game engines
 
 ---
 
